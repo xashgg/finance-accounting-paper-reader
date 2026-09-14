@@ -1,5 +1,7 @@
 # Finance and Accounting Paper Reader
 
+English | [简体中文](README.zh-CN.md)
+
 A Codex skill that reads one finance, accounting, or related academic paper from Zotero and creates an evidence-traceable Markdown literature note for Obsidian.
 
 The skill matches the intended Zotero record, verifies the Better BibTeX citation key, reads the available paper text, and writes the note to:
