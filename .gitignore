@@ -1,0 +1,22 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+
+# Research data and generated notes
+10_Papers/
+*.pdf
+*.sqlite
+*.sqlite-*
+*.bib
+*.ris
+
+# Editor, OS and temporary files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+*.tmp
+*.bak
